@@ -50,7 +50,7 @@ header .bad, header .current a{
 }
 
 footer p {
-  text-align: left;
+  text-align: center;
   font-family: times;
   position: absolute;
   bottom: 0;
